@@ -1,0 +1,15 @@
+# Ambiente Virtual
+.venv/
+venv/
+ENV/
+
+# Arquivos do PyCharm
+.idea/
+
+# Bytecodes / Cache do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos temporários do OS
+.DS_Store
+Thumbs.db
